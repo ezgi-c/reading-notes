@@ -1,5 +1,5 @@
 ## Growth Mindset
-! [growth mindset] (https://freesvg.org/img/brain-train.png)
+! [growing brain] (https://freesvg.org/img/brain-train.png)
 
 You can use the [editor on GitHub](https://github.com/ezgi-c/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
