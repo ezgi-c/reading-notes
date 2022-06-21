@@ -1,9 +1,12 @@
 ## Growth Mindset
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Growth_and_fixed_mind.jpg" width="400"/>
 
-You can use the [editor on GitHub](https://github.com/ezgi-c/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+In their blog post called [*How You Can Benefit from A Growth Mindset*](https://www.atlassian.com/blog/inside-atlassian/growth-mindset), Steve Haffenden talks about their struggles with moving past a "fixed mindset" towards a "growth mindset". A growth mindset is explained as seeing the mind as a tool that can be sharpened to become more efficient, creative and capable through effort and practice. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.
+By contrast, in a fixed mindset, intelligence and talent are seen as fixed traits, suggesting that success comes from these inherent qualities alone, without the need for further development or effort.
+
+It is true that many of us fall into the pitfall of seeing our talents and capabilities as a given rather than being able to develop them through work. I can relate to what Haffenden shares about the discomfort that accompanies the growth process. I can count the times I gave up on an endeaveour when I wasn't naturally successful at it. 
 
 ### Markdown
 
