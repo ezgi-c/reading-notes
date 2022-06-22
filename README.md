@@ -14,4 +14,7 @@ It can be easy to revert back to a fixed mindset. Here are some reminders to sta
 - Remember to take a break when stuck and come back later to a challenge.
 - Remember to see criticism as an opportunity for growth rather than as evidence of not being good at something.
 
+### About me
+My name is Ezgi. I am a mom of one human and 2 fur babies. I love to solve problems and be creative. 
+
 
