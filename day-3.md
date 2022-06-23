@@ -1,3 +1,5 @@
+[Home](reading-notes)
+
 ## Terminal Commands
 
 `cd` - Change Directory  

@@ -1,3 +1,5 @@
+[Home](reading-notes)
+
 # Growth Mindset
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Growth_and_fixed_mind.jpg" width="400"/>

@@ -1,3 +1,5 @@
+[Home](reading-notes)
+
 ## Code 102 Notes - June 20, 2022
 
 Today was the first day of lecture for Code 102 at CodeFellows. Following are the topics we covered:
