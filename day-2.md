@@ -1,6 +1,7 @@
 # Code 102 notes 6-21-22, Coder's Computer
 
 ## choosing a text editor
+
 - there are different kinds of text editors
 - a text editor is what we use to write and edit code
 - the most basic text editor comes readily in our computers; *Notepad* on Windows and *Text Edit* on Mac
@@ -12,18 +13,22 @@ reference: *[Choosing a Text Editor](https://codefellows.github.io/code-102-guid
 ## lecture notes
 
 **Developer tools**
+
 - text editor
 - terminal
 - Discussion exercise
 
 **Installfest**
+
 - operating systems
 - Lab: install and configure
 
 **Power tools**
+
 >you need to use the tools you have and use it to your advantage
 
 **Text Editors**
+
 - word processors
   - misrosoft word
   - Google docs
@@ -34,15 +39,17 @@ reference: *[Choosing a Text Editor](https://codefellows.github.io/code-102-guid
   -NotePad++
   -Vim, Emacs, Nano, TextMate
   
-**The Terminal**
+### The Terminal
+
 AKA: The Command Line Interface (cli)
-- File Explorer tasks**
+
+- **File Explorer tasks**
   - find files
   - Change directories
   - move and copy files
   - open files
   - make new files / folders
-- Terminal tasks
+- **Terminal tasks**
   - Examples of commands
     - ls= list contents of location
     - cd= change directory
@@ -55,5 +62,3 @@ AKA: The Command Line Interface (cli)
     - pwd= show current location
     - New-Item (touch) cat.html
     - code cat.html= launches code editor
-
-
