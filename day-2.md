@@ -14,22 +14,22 @@ reference: *[Choosing a Text Editor](https://codefellows.github.io/code-102-guid
 
 ## lecture notes
 
-**Developer tools**
+### Developer tools
 
 - text editor
 - terminal
 - Discussion exercise
 
-**Installfest**
+### Installfest
 
 - operating systems
 - Lab: install and configure
 
-**Power tools**
+### Power tools
 
 >you need to use the tools you have and use it to your advantage
 
-**Text Editors**
+### Text Editors
 
 - word processors
   - misrosoft word
