@@ -4,6 +4,7 @@
 * [Day 1: Learning Strategies and Markdown](day-1)
 * [Day 2: Coder's Computer](day-2)
 * [Day 3: Sharing Code](day-3)
+* [Day 4: HTML](day-4)
 
 ## About me
 
