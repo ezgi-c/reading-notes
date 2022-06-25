@@ -1,4 +1,4 @@
-[Home](README)
+[Home](https://ezgi-c.github.io/reading-notes/)
 
 ## Code 102 Notes - June 20, 2022
 

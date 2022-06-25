@@ -1,4 +1,4 @@
-[Home](README)
+[Home](https://ezgi-c.github.io/reading-notes/)
 
 # Code 102 notes 6-21-22, Coder's Computer
 

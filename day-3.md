@@ -1,4 +1,4 @@
-[Home](README)
+[Home](https://ezgi-c.github.io/reading-notes/)
 
 ## Terminal Commands
 
