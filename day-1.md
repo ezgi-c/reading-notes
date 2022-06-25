@@ -1,4 +1,4 @@
-[Home](reading-notes)
+[Home](README)
 
 ## Code 102 Notes - June 20, 2022
 

@@ -1,4 +1,4 @@
-[Home](reading-notes)
+[Home](README)
 
 ## Terminal Commands
 

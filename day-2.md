@@ -1,4 +1,4 @@
-[Home](reading-notes)
+[Home](README)
 
 # Code 102 notes 6-21-22, Coder's Computer
 
