@@ -6,7 +6,8 @@
 * [Day 3: Sharing Code](day-3)
 * [Day 4: HTML](day-4)
 * [Day 5: CSS](day-5)
-* [Day 5: Javascript](day-5-2)
+* [Day 5: JavaScript](day-5-2)
+* [Day 6: Programming with JavaScript](day-6)
 
 ## About me
 
