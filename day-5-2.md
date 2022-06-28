@@ -14,7 +14,7 @@
 - The variables have no value until we assign them value using `=`
 - Example:
 
-  ```
+  ``` js
   let x= 10
   let y= 20
   let z= x+y
@@ -26,7 +26,7 @@
 - `//` is used to comment out code. "ctrl + k + c" to comment out multiple lines
 Example script:
 
-```
+``` js
 let firstName = prompt('What is your name?')
 
 let time = prompt('What hour is it (0-24)')

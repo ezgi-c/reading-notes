@@ -15,7 +15,7 @@ Today was the first day of lecture for Code 102 at CodeFellows. Following are th
   - Web pages can be formated and generated on GitHub using Markdown 
   - some examples:
   
-   ```
+   ``` md
     
    *italic*   
    

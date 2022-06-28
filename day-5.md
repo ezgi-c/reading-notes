@@ -1,7 +1,7 @@
 [Home](https://ezgi-c.github.io/reading-notes/)
 
 
-# Code 102 Day 5 Notes - CSS 
+# Code 102 Day 5 Notes - CSS
 
 ## CSS (Cascading Style Sheets)
 
@@ -10,7 +10,7 @@
 - To add CSS internally within the HTML file, the CSS code is entered inside `<style></style>` section within the `<head></head>`
 - Example of inline CSS:
 
-```
+``` css
 <!DOCTYPE html>
 <html>
 <body>
