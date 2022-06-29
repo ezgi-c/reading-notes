@@ -1,4 +1,4 @@
-[Home](https://ezgi-c.github.io/reading-notes/)
+[Home](/README.md)
 
 # Code 102 Day 5 Notes - JavaScript
 

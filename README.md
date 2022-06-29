@@ -8,6 +8,7 @@
 * [Day 5: CSS](day-5)
 * [Day 5: JavaScript](day-5-2)
 * [Day 6: Programming with JavaScript](day-6)
+* [Day 7: JS - Operators and Loops](day-7)
 
 ## About me
 

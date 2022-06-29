@@ -1,4 +1,4 @@
-[Home](/)
+[Home](/README.md)
 
 ## Code 102 Notes - June 20, 2022
 
