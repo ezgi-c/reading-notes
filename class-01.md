@@ -31,3 +31,21 @@ Numbers do not have quotation marks around them. i.e. `5`, `3+4` etc.
 5. **What is a Variable and why are they important in JavaScript?**
 
 Variable are containers we use to store values. Variables are important for creating dynamic elements as their value can be changed by user input and other factors.
+
+## Introduction to HTML
+
+1. What is an HTML attribute?
+
+An HTML attribute contains extra information about an HTML element.  
+i.e. `<div id="section1"></div>`  
+In this example `id` is an attribute that helps us specify the element.
+
+2. **Describe the Anatomy of an HTML element.**
+
+3. **What is the Difference between `<article>` and `<section>` element tags?**
+
+4. **What Elements does a “typical” website include?**
+
+5. **How does metadata influence Search Engine Optimization?**
+
+6. **How is the `<meta>` HTML tag used when specifying metadata?**
