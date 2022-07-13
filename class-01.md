@@ -109,3 +109,4 @@ Dynamically updating websites require JS. These websites are able to update thei
 2. **How can you add JavaScript to an HTML document?**
 
 JavaScript can be added internally or externally to an HTML document. Internally it is added in body of the page within `<script></script>` tag. Externally the JS file is linked in the `<head>` section of the document as follows: `<script src="script.js" defer></script>`
+

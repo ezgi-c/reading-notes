@@ -1,14 +1,11 @@
-# Code 201
+# Table of Contents
 
-## Table of Contents
+## Code 201
 
 * [Class 01](class-01)
+* [Class 02](class-02)
 
-___________________________
-
-# Code 102
-
-## Table of Contents
+## Code 102
 
 * [Growth Mindset](growth-mindset)
 * [Day 1: Learning Strategies and Markdown](day-1)
