@@ -1,6 +1,6 @@
 [Home](/README.md)
 
-# Class 01 - 7/9/2022
+# Class 01 - Introductory HTML and JavaScript
 
 The topics for this reading assignment are a review of foundational concepts in web development. These are important to go over as we will be building upon these principles in the course.
 

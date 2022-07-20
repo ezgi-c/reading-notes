@@ -2,8 +2,10 @@
 
 ## Code 201
 
-* [Class 01](class-01)
-* [Class 02](class-02)
+* [Class 01 - Introductory HTML and JavaScript](class-01)
+* [Class 02 - Basics of HTML, CSS & JS](class-02)
+* [Class 03 - HTML Lists, CSS Boxes, JS Control Flow](class-03)
+* [Class 04 - HTML Links, CSS Layout, JS Functions](class-04)
 
 ## Code 102
 
