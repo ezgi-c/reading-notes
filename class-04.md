@@ -27,7 +27,8 @@
 ## Functions – Reusable Blocks of Code
 
 1. Describe the difference between a function declaration and a function invocation.
-2. What is the difference between a parameter and an argument?
+2. What is the difference between a parameter and an argument?  
+parameter is name of a variable, argument is the value of a variable.
 
 ## Pair Programming
 
