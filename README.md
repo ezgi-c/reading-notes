@@ -9,6 +9,7 @@
 * [Class 05 - HTML Images, CSS Color & Text](class-05)
 * [Class 06 - JS Object Literals, the DOM](class-06)
 * [Class 07 - HTML Tables, JS Constructor Functions](class-07)
+* [Class 08 - CSS Layout](class-08)
 
 ## Code 102
 
