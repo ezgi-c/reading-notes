@@ -10,6 +10,7 @@
 * [Class 06 - JS Object Literals, the DOM](class-06)
 * [Class 07 - HTML Tables, JS Constructor Functions](class-07)
 * [Class 08 - CSS Layout](class-08)
+* [Class 09 - Forms and Events](class-09)
 
 ## Code 102
 
