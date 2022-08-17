@@ -11,6 +11,9 @@
 * [Class 07 - HTML Tables, JS Constructor Functions](class-07)
 * [Class 08 - CSS Layout](class-08)
 * [Class 09 - Forms and Events](class-09)
+* [Class 10 - Debugging](class-10)
+* [Class 11 - Audio, Video, Images](class-11)
+* [Class 12 - Chart.js, Canvas](class-12)
 
 ## Code 102
 
