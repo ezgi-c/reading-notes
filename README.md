@@ -14,6 +14,7 @@
 * [Class 10 - Debugging](class-10)
 * [Class 11 - Audio, Video, Images](class-11)
 * [Class 12 - Chart.js, Canvas](class-12)
+* [Class 13 - Local Storage](class-13)
 
 ## Code 102
 
