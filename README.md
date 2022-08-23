@@ -15,6 +15,8 @@
 * [Class 11 - Audio, Video, Images](class-11)
 * [Class 12 - Chart.js, Canvas](class-12)
 * [Class 13 - Local Storage](class-13)
+* [Class 14a - CSS Transforms, Transitions, and Animations](class-14a)
+* [Class 14b - What Google Learned About Teams](class-14b)
 
 ## Code 102
 
