@@ -1,5 +1,9 @@
 # Table of Contents
 
+## Code 301
+
+* [Class 1 - Introduction to React and Components](301/class1.md)
+
 ## Code 201
 
 * [Class 01 - Introductory HTML and JavaScript](class-01)
