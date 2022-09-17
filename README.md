@@ -2,7 +2,7 @@
 
 ## Code 301
 
-* [Class 1 - Introduction to React and Components](301/class1.md)
+* [Class 1 - Introduction to React and Components](301class1.md)
 
 ## Code 201
 
