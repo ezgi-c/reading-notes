@@ -1,10 +1,10 @@
 # Table of Contents
 
-## Code 301
+## Code 301 - Intermediate Software Development
 
 * [Class 1 - Introduction to React and Components](301class1.md)
 
-## Code 201
+## Code 201 - Foundations of Software Developement
 
 * [Class 01 - Introductory HTML and JavaScript](class-01)
 * [Class 02 - Basics of HTML, CSS & JS](class-02)
@@ -22,7 +22,7 @@
 * [Class 14a - CSS Transforms, Transitions, and Animations](class-14a)
 * [Class 14b - What Google Learned About Teams](class-14b)
 
-## Code 102
+## Code 102 - Intro to Software Development
 
 * [Growth Mindset](growth-mindset)
 * [Day 1: Learning Strategies and Markdown](day-1)
