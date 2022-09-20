@@ -2,7 +2,8 @@
 
 ## Code 301 - Intermediate Software Development
 
-* [Class 1 - Introduction to React and Components](301class1.md)
+* [Class 1 - Introduction to React and Components](301class1)
+* [Class 02 - State and Props](301class2)
 
 ## Code 201 - Foundations of Software Developement
 

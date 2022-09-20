@@ -1,6 +1,6 @@
 [Home](/README.md)
 
-# Class 1 - Introduction to React and Components
+# Class 01 - Introduction to React and Components
 
 ## Component-Based Architecture
 
