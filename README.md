@@ -4,6 +4,8 @@
 
 * [Class 1 - Introduction to React and Components](301class1)
 * [Class 02 - State and Props](301class2)
+* [Class 03 - Passing Functions as Props](301class3)
+* [Class 04 - React and Forms](301class4)
 
 ## Code 201 - Foundations of Software Developement
 
