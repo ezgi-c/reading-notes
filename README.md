@@ -6,6 +6,7 @@
 * [Class 02 - State and Props](301class2)
 * [Class 03 - Passing Functions as Props](301class3)
 * [Class 04 - React and Forms](301class4)
+* [Class 05 - Putting it all together](301class5)
 
 ## Code 201 - Foundations of Software Developement
 
