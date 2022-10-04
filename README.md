@@ -7,6 +7,7 @@
 * [Class 03 - Passing Functions as Props](301class3)
 * [Class 04 - React and Forms](301class4)
 * [Class 05 - Putting it all together](301class5)
+* [Class 06 - NODE.JS](301class6)
 
 ## Code 201 - Foundations of Software Developement
 
