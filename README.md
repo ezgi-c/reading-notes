@@ -8,6 +8,8 @@
 * [Class 04 - React and Forms](301class4)
 * [Class 05 - Putting it all together](301class5)
 * [Class 06 - NODE.JS](301class6)
+* [Class 07 - REST](301class7)
+
 
 ## Code 201 - Foundations of Software Developement
 
