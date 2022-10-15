@@ -10,6 +10,7 @@
 * [Class 06 - NODE.JS](301class6)
 * [Class 07 - REST](301class7)
 * [Class 08 - APIs](301class8)
+* [Class 09 - Functional Programming](301class9)
 
 ## Code 201 - Foundations of Software Developement
 
