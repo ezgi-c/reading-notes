@@ -31,13 +31,13 @@
     ```
 
 1. What do we have to do to make a module available?  
-    We export from the module whatever varible or function we want to make available to other files. e.g.,
+    We export from the module whatever variable or function we want to make available to other files. e.g.,
 
     ```js
-    module.exports = someVarible
+    module.exports = someVariable
     ```  
 
-    And the file importing the varible uses the following syntax:
+    And the file importing the variable uses the following syntax:
 
     ```js
     var someVariable = require('./someFile')

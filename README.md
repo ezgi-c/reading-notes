@@ -11,6 +11,7 @@
 * [Class 07 - REST](301class7)
 * [Class 08 - APIs](301class8)
 * [Class 09 - Functional Programming](301class9)
+* [Class 10 - In memory storage](301class10)
 
 ## Code 201 - Foundations of Software Developement
 
