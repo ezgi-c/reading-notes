@@ -14,6 +14,7 @@
 * [Class 10 - In memory storage](301class10)
 * [Class 11 - Audio, Video, Images](301class11)
 * [Class 12 - CRUD](301class12)
+* [Class 13 - More CRUD](301class13)
 * [Class 14 - Diversity & Inclusion in the Tech Industry](301class14)
 
 ## Code 201 - Foundations of Software Developement
