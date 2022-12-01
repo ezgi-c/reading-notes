@@ -1,5 +1,7 @@
 # Table of Contents
 
+## Code 401 - Advanced Software Development
+
 ## Code 301 - Intermediate Software Development
 
 * [Class 1 - Introduction to React and Components](301class1)
@@ -16,6 +18,7 @@
 * [Class 12 - CRUD](301class12)
 * [Class 13 - More CRUD](301class13)
 * [Class 14 - Diversity & Inclusion in the Tech Industry](301class14)
+* [Class 15 - Authentication](301class15)
 
 ## Code 201 - Foundations of Software Developement
 
@@ -47,8 +50,3 @@
 * [Day 6: Programming with JavaScript](day-6)
 * [Day 7: JS - Operators and Loops](day-7)
 
-## About me
-
-My name is Ezgi. I am a mom of one human and 2 fur babies. I love to solve problems and be creative. My background is in Psychology as well as customer service.
-I am originally from Istanbul, Turkey and I have lived in Seattle and the PNW for the past 20 years. I enjoy spending time outdoors on beaches and woods.
-I have always been interested in computers and technology and I am excited to begin my journey into a career in tech.
