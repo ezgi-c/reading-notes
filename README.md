@@ -2,7 +2,7 @@
 
 ## Code 401 - Advanced Software Development
 
-*[Introduction to SQL](401prep1)
+* [Introduction to SQL](401prep1)
 
 ## Code 301 - Intermediate Software Development
 
