@@ -3,6 +3,7 @@
 ## Code 401 - Advanced Software Development
 
 * [Introduction to SQL](401prep1)
+* [Node Ecosystem](401class1)
 
 ## Code 301 - Intermediate Software Development
 
