@@ -4,6 +4,7 @@
 
 * [Introduction to SQL](401prep1)
 * [Node Ecosystem](401class1)
+* [Express, NPM, TDD, CI/CD](401class2)
 
 ## Code 301 - Intermediate Software Development
 
