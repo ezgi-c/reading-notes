@@ -2,9 +2,11 @@
 
 ## Code 401 - Advanced Software Development
 
-* [Introduction to SQL](401prep1)
-* [Node Ecosystem](401class1)
-* [Express, NPM, TDD, CI/CD](401class2)
+* [Prep - Introduction to SQL](401prep1)
+* [Prep - Practice in the Terminal](401prep3)
+* [Prep - The Growth Mindset](401prep4)
+* [Class 1 - Node Ecosystem](401class1)
+* [Class 2 - Express, NPM, TDD, CI/CD](401class2)
 
 ## Code 301 - Intermediate Software Development
 
