@@ -8,6 +8,7 @@
 * [Class 1 - Node Ecosystem](401class1)
 * [Class 2 - Express, NPM, TDD, CI/CD](401class2)
 * [Class 3 - Express REST API](401class3)
+* [Class 4 - Data Modeling](401class4)
 
 ## Code 301 - Intermediate Software Development
 
