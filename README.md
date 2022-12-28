@@ -9,6 +9,8 @@
 * [Class 2 - Express, NPM, TDD, CI/CD](401class2)
 * [Class 3 - Express REST API](401class3)
 * [Class 4 - Data Modeling](401class4)
+* [Class 6 - Authentication](401class6)
+* [Class 7 - Bearer Authorization](401class7)
 
 ## Code 301 - Intermediate Software Development
 
