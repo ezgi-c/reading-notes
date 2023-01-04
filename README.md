@@ -11,6 +11,7 @@
 * [Class 4 - Data Modeling](401class4)
 * [Class 6 - Authentication](401class6)
 * [Class 7 - Bearer Authorization](401class7)
+* [Class 8 - Access Control (ACL)](401class8)
 
 ## Code 301 - Intermediate Software Development
 
