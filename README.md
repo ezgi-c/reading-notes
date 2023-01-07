@@ -12,6 +12,7 @@
 * [Class 6 - Authentication](401class6)
 * [Class 7 - Bearer Authorization](401class7)
 * [Class 8 - Access Control (ACL)](401class8)
+* [Class 9 - Authorization/Authentication](401class9)
 
 ## Code 301 - Intermediate Software Development
 
