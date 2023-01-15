@@ -14,6 +14,7 @@
 * [Class 8 - Access Control (ACL)](401class8)
 * [Class 9 - Authorization/Authentication](401class9)
 * [Class 10 - Stacks and Queues](401class10)
+* [Class 11 - Event Driven Applications](401class11)
 
 ## Code 301 - Intermediate Software Development
 
