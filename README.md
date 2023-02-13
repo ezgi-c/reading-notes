@@ -19,6 +19,7 @@
 * [Class 13 - Message Queues](401class13)
 * [Class 16 - AWS: Cloud Servers](401class16)
 * [Class 18 - AWS: API, Dynamo and Lambda](401class18)
+* [Class 19 - AWS: Events](401class19)
 
 ## Code 301 - Intermediate Software Development
 
