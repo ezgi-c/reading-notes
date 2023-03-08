@@ -22,6 +22,7 @@
 * [Class 19 - AWS: Events](401class19)
 * [Class 26 - Component Based UI](401class26)
 * [Class 27 - `useState()` Hook](401class27)
+* [Class 28 - Advanced State with Reducers](401class28)
 
 ## Code 301 - Intermediate Software Development
 
