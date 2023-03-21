@@ -25,6 +25,9 @@
 * [Class 28 - Advanced State with Reducers](401class28)
 * [Class 29 - Component Lifecycle / `useEffect` Hook](401class29)
 * [Class 31 - Context API](401class31)
+* [Class 32 - Context API- Behaviors](401class32)
+
+
 
 ## Code 301 - Intermediate Software Development
 
