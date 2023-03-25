@@ -26,8 +26,9 @@
 * [Class 29 - Component Lifecycle / `useEffect` Hook](401class29)
 * [Class 31 - Context API](401class31)
 * [Class 32 - Context API- Behaviors](401class32)
+* [Class 33 - `<Login />` and `<Auth />`](401class33)
 
-
+<hr>
 
 ## Code 301 - Intermediate Software Development
 
@@ -76,4 +77,3 @@
 * [Day 5: JavaScript](day-5-2)
 * [Day 6: Programming with JavaScript](day-6)
 * [Day 7: JS - Operators and Loops](day-7)
-
