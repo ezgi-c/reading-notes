@@ -27,6 +27,7 @@
 * [Class 31 - Context API](401class31)
 * [Class 32 - Context API- Behaviors](401class32)
 * [Class 33 - `<Login />` and `<Auth />`](401class33)
+* [Class 34 - API Integration](401class34)
 
 <hr>
 
