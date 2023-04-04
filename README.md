@@ -28,6 +28,7 @@
 * [Class 32 - Context API- Behaviors](401class32)
 * [Class 33 - `<Login />` and `<Auth />`](401class33)
 * [Class 34 - API Integration](401class34)
+* [Class 36 - Application State with Redux](401clas36)
 
 <hr>
 
