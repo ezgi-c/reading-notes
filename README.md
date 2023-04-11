@@ -30,6 +30,7 @@
 * [Class 34 - API Integration](401class34)
 * [Class 36 - Application State with Redux](401class36)
 * [Class 37 - Redux: Combined Reducers](401class37)
+* [Class 38 - Redux: Asynchronous Actions](401class38)
 
 <hr>
 
