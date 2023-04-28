@@ -33,6 +33,7 @@
 * [Class 38 - Redux: Asynchronous Actions](401class38)
 * [Class 39 - Redux: Additional Topics](401class39)
 * [Class 41 - PWA & App Manifest](401class41)
+* [Class 42 - Ethics in Tech](401class42)
 
 <hr>
 
