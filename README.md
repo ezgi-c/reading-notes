@@ -34,6 +34,7 @@
 * [Class 39 - Redux: Additional Topics](401class39)
 * [Class 41 - PWA & App Manifest](401class41)
 * [Class 42 - Ethics in Tech](401class42)
+* [Class 43 - OSS Contributions](401class43)
 
 <hr>
 
